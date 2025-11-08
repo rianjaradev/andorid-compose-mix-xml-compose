@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MixXmlComposeTest"
+rootProject.name = "MixXmlCompose"
 include(":app")
- 
